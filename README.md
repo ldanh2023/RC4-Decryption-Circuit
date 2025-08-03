@@ -2,6 +2,10 @@
 
 A high-performance, multi-core RC4 decryption and brute-force cracking circuit implemented on FPGA using VHDL and SystemVerilog.
 
+**Academic Integrity Notice**  
+- Reuse of any code or implementation details from this project without proper authorization may constitute academic misconduct.  
+- If you are a student or educator referencing this project for coursework or research, **you must contact me for permission** before using any part of this work.
+
 ## Project Overview
 
 This project implements a parallelized RC4 decryption system on an FPGA, featuring modular design and synchronized finite state machines. It includes both a single-key decryption circuit and a 4-core brute-force keyspace exploration engine.
